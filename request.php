@@ -1,4 +1,12 @@
-<?php 
+<?php
+/*
+* Author: Rohit Kumar
+* Website: iamrohit.in
+* Version: 0.0.1
+* Date: 26-11-2015
+* App Name: Username Availabilty Check
+* Description: Username Availabilty Check Script in PHP, MYSQL, JQUERY
+*/ 
 $hostname = "localhost";
 $username = "root";
 $password = "root";
