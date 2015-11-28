@@ -1,3 +1,5 @@
-# Username_Availabilty_Check
+# Username_Availability_Check
 
-Simple Username Availabilty Check Script in PHP, MYSQL, JQUERY
+Simple Username Availability Check Script in PHP, MYSQL, JQUERY
+
+http://www.iamrohit.in/simple-and-fast-username-availability-check-script-in-php-mysql-jquery/
